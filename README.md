@@ -8,7 +8,8 @@ ensuite renommer les repertoires
  neutral : 4
  sad : 5
  surprise : 6
-et ensuite compresser le reperoire final en archive.tar
+et ensuite compresser le reperoire final en **archive.tar**
 le repertoire compressé après décompression doit être sous la forme 
 archive/train
 archive/test
+transférer le fichier **archive.tar** dans google collab
